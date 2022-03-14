@@ -1,10 +1,12 @@
+import Kitchen from "./Kitchen";
 
 
 const FloorPlan = (props) => {
   return (
     <>
-      <div>this is floor plan</div>
+      <Kitchen />
     </>
+      
   );
 }
 
